@@ -18,10 +18,10 @@ build:
 requirements:
   host:
     - pip
-    - python
+    - python >=3.6
   run:
     - networkx
-    - python
+    - python >=3.6
     - six
 
 test:
