@@ -20,9 +20,8 @@ requirements:
     - pip
     - python >=3.6
   run:
-    - networkx
+    - networkx >=2
     - python >=3.6
-    - six
 
 test:
   imports:
