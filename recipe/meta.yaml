@@ -1,5 +1,5 @@
 {% set name = "importlab" %}
-{% set version = "0.7" %}
+{% set version = "0.8" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 744bd75d4410744962d203bd1eb71a950b19e8fb8eb5f0b805461dc0a2da329b
+  sha256: b24b3aac3b073966ae42fb2d3a7764f3377b30bb72c0d411fe29134cc9276e86
 
 build:
   number: 0
@@ -40,3 +40,4 @@ about:
 extra:
   recipe-maintainers:
     - marcelotrevisani
+    - ngam
