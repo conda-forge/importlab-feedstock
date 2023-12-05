@@ -1,11 +1,11 @@
-About importlab
-===============
+About importlab-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/importlab-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/google/importlab
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/importlab-feedstock/blob/main/LICENSE.txt)
 
 Summary: A library to calculate python dependency graphs.
 
